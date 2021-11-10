@@ -1,5 +1,5 @@
 ### Hi there, my name is Gabriel Pacheco, and welcome to my GitHub page 👋
-<hr>
+
 <div>
   <a href="https://www.linkedin.com/in/gabriel-pacheco-863bb3210/" taget="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href=“https://discordapp.com/users/293036241983766528/” target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a>
@@ -13,13 +13,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpmotta21&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
   <div>
-  <hr>
+
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
-    
-    ![Snake animation](https://github.com/gpmotta21/gpmotta21/blob/output/github-contribution-grid-snake.svg)
+
   
