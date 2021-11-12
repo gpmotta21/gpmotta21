@@ -2,7 +2,7 @@
  <h1>Hi there, my name is Gabriel Pacheco, and welcome to my GitHub 😄</h1>
 
 <div>
-  <a href="www.linkedin.com/in/gpmotta21" taget="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/gpmotta21/" taget="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   <a href="https://www.instagram.com/gabrieel.pachecoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href = "mailto:gpmotta21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
