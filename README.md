@@ -1,4 +1,5 @@
-<hr>
+# [Click here to go to my Portfolio](https://gabrielp.netlify.app/)
+
  <h1>Hi there, my name is Gabriel Pacheco, and welcome to my GitHub 😄</h1>
 
 <div>
@@ -20,5 +21,5 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
-<hr>
+
   
